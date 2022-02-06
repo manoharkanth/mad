@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string-array name = "sp_list">
+        <item> Select</item>
+        <item> USD to INR</item>
+        <item> INR to USD</item>
+        <item> GBP to INR</item>
+        <item> INR to GBP</item>
+    </string-array>
+</resources>
